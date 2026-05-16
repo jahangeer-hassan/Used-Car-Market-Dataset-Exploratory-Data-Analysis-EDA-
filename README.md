@@ -117,7 +117,7 @@ Used-Car-EDA/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Used-Car-EDA.git
+git clone https://github.com/jahangeer-hassan
 ```
 
 ## 2️⃣ Install Libraries
@@ -142,10 +142,17 @@ This project demonstrates how Exploratory Data Analysis helps in understanding r
 
 # 🤝 Connect With Me
 
-If you like this project, feel free to ⭐ the repository and connect with me on GitHub.
+## GitHub
+
+[GitHub Profile](https://github.com/jahangeer-hassan)
+
+## LinkedIn
+
+[LinkedIn Profile](https://www.linkedin.com/in/jahangeer-hassan-data-analysts/)
 
 ---
 
 # 📜 License
 
 This project is open-source and available for educational and learning purposes.
+
